@@ -109,4 +109,4 @@ const styles = StyleSheet.create({
     fontSize: 16,
     marginLeft: SPACING.sm,
   },
-});
+});0
